@@ -15,4 +15,6 @@ Creating italic text *This is italic text*  --write test between one astrick
 Creating both bold and italic text ***This text is bold & italic***  --write text  
 Creating crossed text  ~~crossed off~~ --write text between double tilde
 <br>
-<mark>Highlighting any text </mark>  --use html syntax mark to highlight the text
+<mark>Highlighting any text </mark>  --use html syntax mark to highlight the text  
+X<sup>2</sup> --using html syntax "sup"  
+H<sub>2</sub>O --using html syntax "sub"
