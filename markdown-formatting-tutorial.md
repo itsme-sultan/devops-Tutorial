@@ -1,4 +1,4 @@
-<h1>Adding an h1 heading, in a same we can create h2 & h2 </h1>
+<h1>Adding an h1 heading, in a same we can create h2 & h3 heading </h1>
 
 # Another way of adding heading
 
@@ -9,3 +9,7 @@ just check line no. 6
 we can also use html syntax br to add new line
 
 To start new paragraph we have to just leave an empty line
+Creating bold text  **This is bold text** -- write text between twi astrick  
+Creating italic text *This is italic text*  --write test between one astrick  
+<br>
+Creating both bold and italic ***This text is bold & italic***  --write text 
