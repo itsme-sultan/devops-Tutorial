@@ -12,4 +12,7 @@ To start new paragraph we have to just leave an empty line
 Creating bold text  **This is bold text** -- write text between twi astrick  
 Creating italic text *This is italic text*  --write test between one astrick  
 <br>
-Creating both bold and italic ***This text is bold & italic***  --write text 
+Creating both bold and italic text ***This text is bold & italic***  --write text  
+Creating crossed text  ~~crossed off~~ --write text between double tilde
+<br>
+<mark>Highlighting any text </mark>  --use html syntax mark to highlight the text
