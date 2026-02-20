@@ -20,8 +20,11 @@ X<sup>2</sup> --using html syntax "sup"
 H<sub>2</sub>O --using html syntax "sub"  
 This is `let C = 10`    -- to define any code or equation write  in between two back tick
 ```
+//This is a code block
 const a = 10
 let y =8
-
-
 ```
+<https://google.com>  - for any hyperlink or url  
+[click here for google](https://google.com)  -write the text in square bracket ang url in paranthesis  
+
+![Jus a test image](Images.PNG) - To add any image, copy the image path and paste inside the paranthesis
