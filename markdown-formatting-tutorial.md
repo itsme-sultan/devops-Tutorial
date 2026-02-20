@@ -17,4 +17,11 @@ Creating crossed text  ~~crossed off~~ --write text between double tilde
 <br>
 <mark>Highlighting any text </mark>  --use html syntax mark to highlight the text  
 X<sup>2</sup> --using html syntax "sup"  
-H<sub>2</sub>O --using html syntax "sub"
+H<sub>2</sub>O --using html syntax "sub"  
+This is `let C = 10`    -- to define any code or equation write  in between two back tick
+```
+const a = 10
+let y =8
+
+
+```
