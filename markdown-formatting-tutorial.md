@@ -34,4 +34,23 @@ To add any image, copy the image path and paste inside the paranthesis
 ***
 drawing a new line
 ___
-to draw a lin just add three astrick or three underscore or three hyphen
+to draw a lin just add three astrick or three underscore or three hyphen  
+
+To write anything in list
+1. Aplle
+2. banana
+3. grapes
+
+To wite anything in Nulletes
+* Item 1
+* Item 2
+  + Item a
+  + Item b
+      1. Item a
+      2. Item b
+   
+Just give four space or press tab button to start a new list  
+We can use + sign also instead od astrick to write in bullets pattern
+
+---
+
