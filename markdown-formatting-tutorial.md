@@ -24,7 +24,14 @@ This is `let C = 10`    -- to define any code or equation write  in between two 
 const a = 10
 let y =8
 ```
-<https://google.com>  - for any hyperlink or url  
+<https://google.com>  - for any hyperlink or url write it inside angle bracket 
 [click here for google](https://google.com)  -write the text in square bracket ang url in paranthesis  
 
-![Jus a test image](Images.PNG) - To add any image, copy the image path and paste inside the paranthesis
+![Jus a test image](Images.PNG)  
+To add any image, copy the image path and paste inside the paranthesis
+
+---
+***
+drawing a new line
+___
+to draw a lin just add three astrick or three underscore or three hyphen
