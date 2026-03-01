@@ -8,27 +8,28 @@ just check line no. 6
 <br>
 we can also use html syntax br to add new line
 
-To start new paragraph we have to just leave an empty line
+To start new paragraph we have to just leave an empty line  
 Creating bold text  **This is bold text** -- write text between twi astrick  
 Creating italic text *This is italic text*  --write test between one astrick  
 <br>
 Creating both bold and italic text ***This text is bold & italic***  --write text  
-Creating crossed text  ~~crossed off~~ --write text between double tilde
+Creating crossed text   ~~crossed off~~  -->write text between double tilde
 <br>
 <mark>Highlighting any text </mark>  --use html syntax mark to highlight the text  
 X<sup>2</sup> --using html syntax "sup"  
 H<sub>2</sub>O --using html syntax "sub"  
 This is `let C = 10`    -- to define any code or equation write  in between two back tick
-```
+```bash   #we can define the name of the programming language to alter the syntax accordingly
 //This is a code block
 const a = 10
 let y =8
 ```
-<https://google.com>  - for any hyperlink or url write it inside angle bracket 
+<https://google.com>  - for any hyperlink or url write it inside angle bracket  
 [click here for google](https://google.com)  -write the text in square bracket ang url in paranthesis  
 
 ![Jus a test image](Images.PNG)  
-To add any image, copy the image path and paste inside the paranthesis
+
+To add any image, copy the image path and paste inside the paranthesis and add esclamation mark at the start
 
 ---
 ***
@@ -41,7 +42,7 @@ To write anything in list
 2. banana
 3. grapes
 
-To wite anything in Nulletes
+To wite anything in bulletes
 * Item 1
 * Item 2
   + Item a
