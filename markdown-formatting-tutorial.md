@@ -3,13 +3,13 @@
 # Another way of adding heading
 
 ## Heading of lower font size size
-we can start a new line by just leaving two blank sapce at the end of lin  
+we can start a new line by just leaving two blank sapce at the end of line  
 just check line no. 6
 <br>
 we can also use html syntax br to add new line
 
 To start new paragraph we have to just leave an empty line  
-Creating bold text  **This is bold text** -- write text between twi astrick  
+Creating bold text  **This is bold text** -- write text between two astrick  
 Creating italic text *This is italic text*  --write test between one astrick  
 <br>
 Creating both bold and italic text ***This text is bold & italic***  --write text  
