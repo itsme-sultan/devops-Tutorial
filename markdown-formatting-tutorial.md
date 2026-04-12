@@ -20,7 +20,7 @@ X<sup>2</sup> --using html syntax "sup"
 H<sub>2</sub>O --using html syntax "sub"  
 This is `let C = 10`    -- to define any code or equation write  in between two back tick
 ```bash   #we can define the name of the programming language to alter the syntax accordingly
-
+//this is  code block
 const a = 10
 let y =8
 ```
