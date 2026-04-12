@@ -44,6 +44,12 @@ To write anything in list
 3. grapes
 
 To wite anything in bulletes
+
+- item 1
+- item 2
+- item3
+
+
 * Item 1
 * Item 2
   + Item a
