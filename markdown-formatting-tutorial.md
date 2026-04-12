@@ -27,7 +27,8 @@ let y =8
 <https://google.com>  - for any hyperlink or url write it inside angle bracket  
 [click here for google](https://google.com)  -write the text in square bracket ang url in paranthesis  
 
-![Jus a test image](Images.PNG)  
+![Jus a test image](Images.PNG)  - copy the path of the image and paste it inside the paranthesis
+
 
 To add any image, copy the image path and paste inside the paranthesis and add esclamation mark at the start
 
