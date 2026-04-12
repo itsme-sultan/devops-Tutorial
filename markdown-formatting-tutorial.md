@@ -1,8 +1,8 @@
 <h1>Adding an h1 heading, in a same we can create h2 & h3 heading </h1>
 
-# Another way of adding heading
+# Another way of adding heading using hash # symbol
 
-## Heading of lower font size size
+## Heading of lower font size size using two hash## symbol.
 we can start a new line by just leaving two blank sapce at the end of line  
 just check line no. 6
 <br>
