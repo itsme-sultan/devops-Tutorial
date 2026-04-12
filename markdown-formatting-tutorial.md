@@ -2,7 +2,7 @@
 
 # Another way of adding heading
 
-## Heading of lower size
+## Heading of lower font size size
 we can start a new line by just leaving two blank sapce at the end of lin  
 just check line no. 6
 <br>
