@@ -1,15 +1,15 @@
 <h1>Adding an h1 heading, in a same we can create h2 & h3 heading </h1>
 
-# Another way of adding heading
+# Another way of adding heading using hash # symbol
 
-## Heading of lower size
-we can start a new line by just leaving two blank sapce at the end of lin  
+## Heading of lower font size size using two hash## symbol.
+we can start a new line by just leaving two blank sapce at the end of line  
 just check line no. 6
 <br>
 we can also use html syntax br to add new line
 
 To start new paragraph we have to just leave an empty line  
-Creating bold text  **This is bold text** -- write text between twi astrick  
+Creating bold text  **This is bold text** -- write text between two astrick  
 Creating italic text *This is italic text*  --write test between one astrick  
 <br>
 Creating both bold and italic text ***This text is bold & italic***  --write text  
@@ -20,14 +20,15 @@ X<sup>2</sup> --using html syntax "sup"
 H<sub>2</sub>O --using html syntax "sub"  
 This is `let C = 10`    -- to define any code or equation write  in between two back tick
 ```bash   #we can define the name of the programming language to alter the syntax accordingly
-//This is a code block
+//this is  code block
 const a = 10
 let y =8
 ```
 <https://google.com>  - for any hyperlink or url write it inside angle bracket  
 [click here for google](https://google.com)  -write the text in square bracket ang url in paranthesis  
 
-![Jus a test image](Images.PNG)  
+![Jus a test image](Images.PNG)  - copy the path of the image and paste it inside the paranthesis
+
 
 To add any image, copy the image path and paste inside the paranthesis and add esclamation mark at the start
 
@@ -43,6 +44,12 @@ To write anything in list
 3. grapes
 
 To wite anything in bulletes
+
+- item 1
+- item 2
+- item3
+
+
 * Item 1
 * Item 2
   + Item a
